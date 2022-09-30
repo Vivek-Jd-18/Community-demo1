@@ -1,0 +1,81 @@
+[33mcommit 01b8d113185a045c3dad19e253f31943d4a0c0c8[m[33m ([m[1;36mHEAD -> [m[1;32mtemp[m[33m, [m[1;31morigin/temp[m[33m)[m
+Author: Vivek-Jd-18 <sergiokunaguero0009@gmail.com>
+Date:   Fri Sep 30 12:24:22 2022 +0530
+
+    child's commit again
+
+[33mcommit 8fc62ba39bedae621095473c1ee7f18404ebc00d[m
+Merge: 1901bf6 da1fc2b
+Author: Vivek-Jd-18 <sergiokunaguero0009@gmail.com>
+Date:   Fri Sep 30 12:20:07 2022 +0530
+
+    normalization
+
+[33mcommit da1fc2b996fa090ff69502146e4cda0ce58dcb29[m[33m ([m[1;31mupstream/main[m[33m)[m
+Merge: 1e21152 dbeb187
+Author: VivekJd-18 <107096136+VivekJd-18@users.noreply.github.com>
+Date:   Fri Sep 30 12:14:56 2022 +0530
+
+    Merge pull request #2 from VivekJd-18/VivekJd-18-patch-1
+    
+    parent's change commit msg
+
+[33mcommit 1e21152caadfe8f9a094e596641eac468d34a1ea[m
+Merge: f8ecfb1 05d9aa5
+Author: VivekJd-18 <107096136+VivekJd-18@users.noreply.github.com>
+Date:   Fri Sep 30 12:14:09 2022 +0530
+
+    Merge pull request #3 from Vivek-Jd-18/temp
+    
+    mass commit at once
+
+[33mcommit 1901bf66c0219c6bfdbd67c7ed0ebc8571712302[m
+Author: Vivek-Jd-18 <sergiokunaguero0009@gmail.com>
+Date:   Fri Sep 30 12:11:43 2022 +0530
+
+    child made a change msg"
+
+[33mcommit dbeb187a4c12b79f36fa99b571013bbbda078d18[m
+Author: VivekJd-18 <107096136+VivekJd-18@users.noreply.github.com>
+Date:   Fri Sep 30 12:10:07 2022 +0530
+
+    parent's change commit msg
+
+[33mcommit 05d9aa5c7127af47c1ca13025d0d0fffadd5cd0d[m
+Author: Vivek-Jd-18 <sergiokunaguero0009@gmail.com>
+Date:   Fri Sep 30 11:55:41 2022 +0530
+
+    mass commit at once
+
+[33mcommit f8ecfb1e913ea62b782b78a40c7d61618711d794[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: VivekJd-18 <107096136+VivekJd-18@users.noreply.github.com>
+Date:   Fri Sep 30 11:48:22 2022 +0530
+
+    niall horan said soething...
+
+[33mcommit 30995da2b7ebf7bcb98926e46738377078ff6e4d[m
+Author: VivekJd-18 <107096136+VivekJd-18@users.noreply.github.com>
+Date:   Fri Sep 30 11:42:57 2022 +0530
+
+    Update README.md
+
+[33mcommit 4a5cb24519e25a1f546d98942074ede5df8b3249[m
+Merge: 21afff7 ad788b2
+Author: VivekJd-18 <107096136+VivekJd-18@users.noreply.github.com>
+Date:   Fri Sep 30 11:24:34 2022 +0530
+
+    Merge pull request #1 from Vivek-Jd-18/vivek
+    
+    vivek added a message from stephen sanchez
+
+[33mcommit ad788b29a4043c57ebab2b63eaeef7ba913bdf50[m[33m ([m[1;31morigin/vivek[m[33m, [m[1;32mvivek[m[33m)[m
+Author: Vivek-Jd-18 <sergiokunaguero0009@gmail.com>
+Date:   Fri Sep 30 10:58:41 2022 +0530
+
+    vivek added a message from stephen sanchez
+
+[33mcommit 21afff750075f3e24c6d0364029d6e5f5a926e95[m
+Author: VivekJd-18 <107096136+VivekJd-18@users.noreply.github.com>
+Date:   Wed Sep 28 12:06:55 2022 +0530
+
+    Initial commit
